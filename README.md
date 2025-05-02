@@ -109,7 +109,7 @@ Use `--delay` to insert a pause between YouTube Music API calls (in seconds) to 
 1. **Download and unzip the repo**
 
    ```bash
-   wget https://github.com/YOUR_USERNAME/spotify-to-ytmusic/archive/refs/heads/main.zip
+   wget https://github.com/jake5253/spotify_to_ytmusic/archive/refs/heads/main.zip
    unzip main.zip
    cd spotify-to-ytmusic-main
    ```
